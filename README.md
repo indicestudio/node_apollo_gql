@@ -1,2 +1,2 @@
-# Mercado Publico API
-Servidor que utiliza GraphQl para extraer info de mercado publico
+# Servidor Minimo Apollo GraphQL
+Servidor minimo en nodejs para Apollo v2 graphQl
